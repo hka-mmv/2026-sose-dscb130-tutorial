@@ -1,1 +1,5 @@
-# 2026-sose-dscb130-tutorial
+# DSCB130 Tutorium
+Sommersemester 2026
+
+## Tutor
+- Herr Leon Gjinovci, Student Data Science Bachelor, gjle1011@h-ka.de
